@@ -1,7 +1,8 @@
 # 100-Questions
 有助于理清思路的一些问题~
 
-[Last update](https://img.shields.io/badge/Last%20update-20250628-blue)
+[![Last update](https://img.shields.io/badge/Last%20update-20250628-blue)](https://img.shields.io/badge/Last%20update-20250628-blue)
+
 ---
 
 ## 📌 目录
